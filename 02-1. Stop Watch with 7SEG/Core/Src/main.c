@@ -53,7 +53,7 @@ typedef enum
 GPIO_PinState Prev_SW1_State = GPIO_PIN_RESET;
 GPIO_PinState Curr_SW1_State = GPIO_PIN_RESET;
 
-GPIO_PinState Pin_State = GPIO_PIN_RESET;;
+GPIO_PinState Pin_State = GPIO_PIN_RESET;
 
 SW_MODE SW1_Mode = RELEASE_IDLE;
 
